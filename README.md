@@ -91,8 +91,8 @@ MR-RePair is also a recent grammar-based compression algorithm based on maximal 
 
 ## References
 
-1. A. Cleary and J. Dood, "Constructing the CDAWG CFG using LCP-Intervals," _2023 Data Compression Conference (DCC)_. IEEE, Mar. 2023. (preprint)
-2. T. Beller, K. Berger, and E. Ohlebusch, "Space-Efficient Computation of Maximal and Supermaximal Repeats in Genome Sequences," _String Processing and Information Retrieval_. Springer Berlin Heidelberg, pp. 99–110, 2012. doi: [10.1007/978-3-642-34109-0_11](10.1007/978-3-642-34109-0_11).
-3. D. Belazzougui and F. Cunial, "Representing the Suffix Tree with the CDAWG," _2019 Data Compression Conference (DCC)_. Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken, Germany, 2017, doi: [10.4230/LIPICS.CPM.2017.7](10.4230/LIPICS.CPM.2017.7).
-4. D. Kempa and N. Prezza, "At the roots of dictionary compression: string attractors," _Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing_. ACM, Jun. 20, 2018. doi: [10.1145/3188745.3188814](10.1145/3188745.3188814).
-5. I. Furuya, T. Takagi, Y. Nakashima, S. Inenaga, H. Bannai, and T. Kida, "MR-RePair: Grammar Compression Based on Maximal Repeats," _2019 Data Compression Conference (DCC)_. IEEE, Mar. 2019. doi: [10.1109/dcc.2019.00059](10.1109/dcc.2019.00059).
+1. A. Cleary and J. Dood, "Constructing the CDAWG CFG using LCP-Intervals," _2023 Data Compression Conference (DCC)_. IEEE, Mar. 2023. doi: [10.1109/DCC55655.2023.00026](https://doi.org/10.1109/DCC55655.2023.00026)
+2. T. Beller, K. Berger, and E. Ohlebusch, "Space-Efficient Computation of Maximal and Supermaximal Repeats in Genome Sequences," _String Processing and Information Retrieval_. Springer Berlin Heidelberg, pp. 99–110, 2012. doi: [10.1007/978-3-642-34109-0_11](https://doi.org/10.1007/978-3-642-34109-0_11).
+3. D. Belazzougui and F. Cunial, "Representing the Suffix Tree with the CDAWG," _2019 Data Compression Conference (DCC)_. Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken, Germany, 2017, doi: [10.4230/LIPICS.CPM.2017.7](https://doi.org/10.4230/LIPICS.CPM.2017.7).
+4. D. Kempa and N. Prezza, "At the roots of dictionary compression: string attractors," _Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing_. ACM, Jun. 20, 2018. doi: [10.1145/3188745.3188814](https://doi.org/10.1145/3188745.3188814).
+5. I. Furuya, T. Takagi, Y. Nakashima, S. Inenaga, H. Bannai, and T. Kida, "MR-RePair: Grammar Compression Based on Maximal Repeats," _2019 Data Compression Conference (DCC)_. IEEE, Mar. 2019. doi: [10.1109/dcc.2019.00059](https://doi.org/10.1109/dcc.2019.00059).
